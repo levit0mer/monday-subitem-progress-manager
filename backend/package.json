@@ -37,7 +37,7 @@
     "moment": "^2.30.1",
     "request": "^2.88.2",
     "uuid": "^11.0.3",
-    "@levit0mer/smartmaps": "https://github.com/levit0mer/smartMaps/releases/download/BasicMap/levit0mer-smartmaps-0.0.4.tgz"
+    "@levit0mer/smartmaps": "https://github.com/levit0mer/smartMaps/releases/download/Basic-Map/levit0mer-smartmaps-0.0.4.tgz"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
